@@ -1,0 +1,15 @@
+{
+    "sqltools.connections": [
+        {
+            "database": "NPS",
+            "dialect": "MSSQL",
+            "isActive": true,
+            "isConnected": true,
+            "name": "192.168.3.11,50133",
+            "password": "Bcsp!@VD#2",
+            "port": 50133,
+            "server": "192.168.3.11",
+            "username": "sa"
+        }
+    ]
+}
